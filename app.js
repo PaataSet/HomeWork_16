@@ -21,7 +21,6 @@ const bookInfo = {
   author: "Bram Stoker",
   yearPublished: 1897,
 };
-//console.log(bookInfo);
 
 const sentence1 =
   bookInfo.title +
